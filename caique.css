@@ -1,4 +1,5 @@
-header {background-color: aqua;
+header
+ {background-color: aqua;
 
 
 
@@ -16,4 +17,16 @@ nav{
     top:110px;
     right: 0;
 
+}
+
+nav a{
+    text-transform: uppercase000;
+    color: blueviolet;
+    font-weight: bold;
+    font-size: 22px;
+    text-decoration: none;
+}
+
+nav a{color: chartreuse;
+    text-decoration: underline;
 }
